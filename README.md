@@ -26,4 +26,6 @@ The dataset is sourced from [Kaggle - French Bakery Daily Sales](https://www.kag
 3. Visualizing Trends and Insights.
 
 View the live project [here](https://anaya-yorke.github.io/Bakery-Sales-Analysis).
+[Download JSON data](./Bakery_Sales1.json.zip)
+
 
