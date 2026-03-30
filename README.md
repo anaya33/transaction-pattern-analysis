@@ -201,7 +201,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Star this repo if you found it helpful!**
 
-[View Live Project](https://anaya33.github.io/Bakery-Sales-Analysis/) · [Download JSON Data](./Bakery_Sales1.json.zip)
+[View Live Project](https://anaya33.github.io/transaction-pattern-analysis/) · [Download JSON Data](./Bakery_Sales1.json.zip)
 
 </div>
 
